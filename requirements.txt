@@ -3,3 +3,4 @@ PyMuPDF
 python-dotenv
 google-generativeai
 uvicorn
+gunicorn
